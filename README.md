@@ -1,7 +1,8 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge][(https://www.linkedin.com/in/bharat-lal-prasad-b43b13237/)]
-[![Website Badge][(https://stackoverflow.com/users/18791121/bharat-lal-prasad)]
+
+[![stackoverflow Badge][(https://stackoverflow.com/users/18791121/bharat-lal-prasad)]
 
 I'm
 Full Stack Solution Architect
